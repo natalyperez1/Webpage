@@ -62,9 +62,9 @@ li{
   margin-left: auto;
   margin-right: auto;
   width: 20%
-/* }
+}
 
- td{
+ /* td{
   display: ;
   margin-left: auto;
   margin-right: auto;
@@ -76,4 +76,8 @@ li{
   margin-left: auto;
   margin-right: auto;
   width: 20%;
-} */
+} */ */
+td{
+  border: solid black;
+  text-align: center;
+}
